@@ -1,0 +1,2 @@
+# soc
+tutorial for beginners
